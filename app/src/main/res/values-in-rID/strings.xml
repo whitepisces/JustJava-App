@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nama</string>
+    <string name="toppings">Toping</string>
+    <string name="whipped_cream">Krim Kocok</string>
+    <string name="chocolate">Cokelat</string>
+    <string name="quantity">Jumlah</string>
+    <string name="order">Order</string>
+    <string name="order_summary_name">Nama</string>
+    <string name="order_summary_whipped_cream">Tambah Krim Kocok</string>
+    <string name="order_summary_chocolate">Tambah Cokelat</string>
+    <string name="order_summary_quantity">Jumlah</string>
+    <string name="order_summary_price">Total</string>
+    <string name="thank_you">Terima Kasih!</string>
+    <string name="order_summary_email_subject">Order Just Java Untuk</string>
+</resources>
